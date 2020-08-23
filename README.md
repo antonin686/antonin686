@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>### Hi there 👋</h2>
 
 <!--
 **antonin686/antonin686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,13 +1,11 @@
 <h2>### Hi there, I'm Antonin Islam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm currently doing my undergraduate in Software Engineering at AIUB.
-
-- 🔭 I’m currently working on Hyperledger Fabric </br>
-- 🌱 I’m currently learning Hyperledger Fabric
-- 👯 I’m looking to collaborate on Laravel, Php, Javascript
+- 🔭 I’m currently working on Laravel With Livewire </br>
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Laravel, React
 - 🤔 I’m looking for help with Hyperledger Fabric
 - ⚡ Fun fact: I love to play online games.
-
+<img src="https://github-readme-stats.vercel.app/api?username=antonin686&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <!--
 **antonin686/antonin686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

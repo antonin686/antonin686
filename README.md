@@ -1,4 +1,4 @@
-<h2>### Hi there, I'm Antonin Islam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi 👋, I'm Antonin Islam</h1>
 
 - 🔭 I’m currently working on Laravel With Livewire </br>
 - 🌱 I’m currently learning React

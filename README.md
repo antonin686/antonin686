@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonin Islam</h1>
 
-- 🔭 I’m currently working on Laravel With Livewire </br>
+- 🔭 I’m currently working on Django </br>
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Laravel, React
 - 🤔 I’m looking for help with Hyperledger Fabric
